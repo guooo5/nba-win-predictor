@@ -1,0 +1,4262 @@
+{
+  "game_id": "0022300061",
+  "events": [
+    {
+      "seconds_elapsed": 0.0,
+      "seconds_remaining": 2880.0,
+      "score_diff": 0.0,
+      "score_home": 0.0,
+      "score_away": 0.0,
+      "description": "Start of 1st Period (7:36 PM EST)",
+      "win_probability": 0.5704
+    },
+    {
+      "seconds_elapsed": 0.0,
+      "seconds_remaining": 2880.0,
+      "score_diff": 0.0,
+      "score_home": 0.0,
+      "score_away": 0.0,
+      "description": "Jump Ball Jokic vs. Davis: Tip to James",
+      "win_probability": 0.5704
+    },
+    {
+      "seconds_elapsed": 18.0,
+      "seconds_remaining": 2862.0,
+      "score_diff": -2.0,
+      "score_home": 0.0,
+      "score_away": 2.0,
+      "description": "Davis 1' Dunk (2 PTS) (Russell 1 AST)",
+      "win_probability": 0.5253
+    },
+    {
+      "seconds_elapsed": 45.0,
+      "seconds_remaining": 2835.0,
+      "score_diff": 0.0,
+      "score_home": 2.0,
+      "score_away": 2.0,
+      "description": "Jokic 7' Driving Floating Jump Shot (2 PTS) (Murray 1 AST)",
+      "win_probability": 0.5743
+    },
+    {
+      "seconds_elapsed": 63.0,
+      "seconds_remaining": 2817.0,
+      "score_diff": -3.0,
+      "score_home": 2.0,
+      "score_away": 5.0,
+      "description": "Prince 24' 3PT Jump Shot (3 PTS) (James 1 AST)",
+      "win_probability": 0.5178
+    },
+    {
+      "seconds_elapsed": 80.0,
+      "seconds_remaining": 2800.0,
+      "score_diff": -1.0,
+      "score_home": 4.0,
+      "score_away": 5.0,
+      "description": "Murray 6' Driving Finger Roll Layup (2 PTS)",
+      "win_probability": 0.5504
+    },
+    {
+      "seconds_elapsed": 87.0,
+      "seconds_remaining": 2793.0,
+      "score_diff": -4.0,
+      "score_home": 4.0,
+      "score_away": 8.0,
+      "description": "Prince 25' 3PT Jump Shot (6 PTS) (James 2 AST)",
+      "win_probability": 0.5036
+    },
+    {
+      "seconds_elapsed": 104.0,
+      "seconds_remaining": 2776.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "Murray 26' 3PT Step Back Jump Shot (5 PTS)",
+      "win_probability": 0.5504
+    },
+    {
+      "seconds_elapsed": 117.0,
+      "seconds_remaining": 2763.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "MISS Russell 25' 3PT Pullup Jump Shot",
+      "win_probability": 0.5504
+    },
+    {
+      "seconds_elapsed": 119.0,
+      "seconds_remaining": 2761.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "Reaves REBOUND (Off:1 Def:0)",
+      "win_probability": 0.5504
+    },
+    {
+      "seconds_elapsed": 131.0,
+      "seconds_remaining": 2749.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "MISS Davis 18' Step Back Jump Shot",
+      "win_probability": 0.5614
+    },
+    {
+      "seconds_elapsed": 134.0,
+      "seconds_remaining": 2746.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "Porter Jr. REBOUND (Off:0 Def:1)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 144.0,
+      "seconds_remaining": 2736.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "MISS Jokic 2' Layup",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 144.0,
+      "seconds_remaining": 2736.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "Davis BLOCK (1 BLK)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 146.0,
+      "seconds_remaining": 2734.0,
+      "score_diff": -1.0,
+      "score_home": 7.0,
+      "score_away": 8.0,
+      "description": "James REBOUND (Off:0 Def:1)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 150.0,
+      "seconds_remaining": 2730.0,
+      "score_diff": -3.0,
+      "score_home": 7.0,
+      "score_away": 10.0,
+      "description": "James 2' Running Finger Roll Layup (2 PTS)",
+      "win_probability": 0.4921
+    },
+    {
+      "seconds_elapsed": 164.0,
+      "seconds_remaining": 2716.0,
+      "score_diff": -3.0,
+      "score_home": 7.0,
+      "score_away": 10.0,
+      "description": "MISS Jokic 6' Turnaround Hook Shot",
+      "win_probability": 0.4921
+    },
+    {
+      "seconds_elapsed": 164.0,
+      "seconds_remaining": 2716.0,
+      "score_diff": -3.0,
+      "score_home": 7.0,
+      "score_away": 10.0,
+      "description": "Jokic REBOUND (Off:1 Def:0)",
+      "win_probability": 0.4921
+    },
+    {
+      "seconds_elapsed": 164.0,
+      "seconds_remaining": 2716.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "Jokic 6' Turnaround Hook Shot (4 PTS)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 164.0,
+      "seconds_remaining": 2716.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "Davis S.FOUL (P1.T1) (K.Cutler)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 164.0,
+      "seconds_remaining": 2716.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "MISS Jokic Free Throw 1 of 1",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 166.0,
+      "seconds_remaining": 2714.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "Reaves REBOUND (Off:1 Def:1)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 178.0,
+      "seconds_remaining": 2702.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "MISS James 3PT Jump Shot",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 182.0,
+      "seconds_remaining": 2698.0,
+      "score_diff": -1.0,
+      "score_home": 9.0,
+      "score_away": 10.0,
+      "description": "Gordon REBOUND (Off:0 Def:1)",
+      "win_probability": 0.5544
+    },
+    {
+      "seconds_elapsed": 186.0,
+      "seconds_remaining": 2694.0,
+      "score_diff": 1.0,
+      "score_home": 11.0,
+      "score_away": 10.0,
+      "description": "Gordon 3' Running Layup (2 PTS)",
+      "win_probability": 0.5943
+    },
+    {
+      "seconds_elapsed": 201.0,
+      "seconds_remaining": 2679.0,
+      "score_diff": 1.0,
+      "score_home": 11.0,
+      "score_away": 10.0,
+      "description": "MISS Reaves 11' Fadeaway Jumper",
+      "win_probability": 0.5943
+    },
+    {
+      "seconds_elapsed": 204.0,
+      "seconds_remaining": 2676.0,
+      "score_diff": 1.0,
+      "score_home": 11.0,
+      "score_away": 10.0,
+      "description": "Porter Jr. REBOUND (Off:0 Def:2)",
+      "win_probability": 0.5943
+    },
+    {
+      "seconds_elapsed": 210.0,
+      "seconds_remaining": 2670.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "Porter Jr. 25' 3PT Running Jump Shot (3 PTS) (Jokic 1 AST)",
+      "win_probability": 0.6138
+    },
+    {
+      "seconds_elapsed": 226.0,
+      "seconds_remaining": 2654.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "MISS Russell 4' Driving Reverse Layup",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 226.0,
+      "seconds_remaining": 2654.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "Jokic BLOCK (1 BLK)",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 227.0,
+      "seconds_remaining": 2653.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "Jokic REBOUND (Off:1 Def:1)",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 228.0,
+      "seconds_remaining": 2652.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "Jokic Bad Pass Turnover (P1.T1)",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 228.0,
+      "seconds_remaining": 2652.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "James STEAL (1 STL)",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 233.0,
+      "seconds_remaining": 2647.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "MISS Russell 26' 3PT Running Pull-Up Jump Shot",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 235.0,
+      "seconds_remaining": 2645.0,
+      "score_diff": 4.0,
+      "score_home": 14.0,
+      "score_away": 10.0,
+      "description": "Gordon REBOUND (Off:0 Def:2)",
+      "win_probability": 0.6132
+    },
+    {
+      "seconds_elapsed": 242.0,
+      "seconds_remaining": 2638.0,
+      "score_diff": 6.0,
+      "score_home": 16.0,
+      "score_away": 10.0,
+      "description": "Porter Jr. 2' Cutting Dunk Shot (5 PTS) (Gordon 1 AST)",
+      "win_probability": 0.6475
+    },
+    {
+      "seconds_elapsed": 256.0,
+      "seconds_remaining": 2624.0,
+      "score_diff": 6.0,
+      "score_home": 16.0,
+      "score_away": 10.0,
+      "description": "Jokic S.FOUL (P1.T1) (K.Cutler)",
+      "win_probability": 0.6478
+    },
+    {
+      "seconds_elapsed": 256.0,
+      "seconds_remaining": 2624.0,
+      "score_diff": 5.0,
+      "score_home": 16.0,
+      "score_away": 11.0,
+      "description": "Davis Free Throw 1 of 2 (3 PTS)",
+      "win_probability": 0.6284
+    },
+    {
+      "seconds_elapsed": 256.0,
+      "seconds_remaining": 2624.0,
+      "score_diff": 4.0,
+      "score_home": 16.0,
+      "score_away": 12.0,
+      "description": "Davis Free Throw 2 of 2 (4 PTS)",
+      "win_probability": 0.6135
+    },
+    {
+      "seconds_elapsed": 270.0,
+      "seconds_remaining": 2610.0,
+      "score_diff": 4.0,
+      "score_home": 16.0,
+      "score_away": 12.0,
+      "description": "MISS Murray 27' 3PT Pullup Jump Shot",
+      "win_probability": 0.6148
+    },
+    {
+      "seconds_elapsed": 270.0,
+      "seconds_remaining": 2610.0,
+      "score_diff": 4.0,
+      "score_home": 16.0,
+      "score_away": 12.0,
+      "description": "Prince BLOCK (1 BLK)",
+      "win_probability": 0.6148
+    },
+    {
+      "seconds_elapsed": 271.0,
+      "seconds_remaining": 2609.0,
+      "score_diff": 4.0,
+      "score_home": 16.0,
+      "score_away": 12.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.6148
+    },
+    {
+      "seconds_elapsed": 275.0,
+      "seconds_remaining": 2605.0,
+      "score_diff": 6.0,
+      "score_home": 18.0,
+      "score_away": 12.0,
+      "description": "Caldwell-Pope 16' Jump Shot (2 PTS) (Gordon 2 AST)",
+      "win_probability": 0.6478
+    },
+    {
+      "seconds_elapsed": 298.0,
+      "seconds_remaining": 2582.0,
+      "score_diff": 4.0,
+      "score_home": 18.0,
+      "score_away": 14.0,
+      "description": "Davis 3' Driving Layup (6 PTS)",
+      "win_probability": 0.6148
+    },
+    {
+      "seconds_elapsed": 309.0,
+      "seconds_remaining": 2571.0,
+      "score_diff": 4.0,
+      "score_home": 18.0,
+      "score_away": 14.0,
+      "description": "MISS Caldwell-Pope 16' Fadeaway Jumper",
+      "win_probability": 0.6148
+    },
+    {
+      "seconds_elapsed": 312.0,
+      "seconds_remaining": 2568.0,
+      "score_diff": 4.0,
+      "score_home": 18.0,
+      "score_away": 14.0,
+      "description": "James REBOUND (Off:0 Def:2)",
+      "win_probability": 0.6625
+    },
+    {
+      "seconds_elapsed": 316.0,
+      "seconds_remaining": 2564.0,
+      "score_diff": 2.0,
+      "score_home": 18.0,
+      "score_away": 16.0,
+      "description": "James 2' Running Finger Roll Layup (4 PTS)",
+      "win_probability": 0.6467
+    },
+    {
+      "seconds_elapsed": 333.0,
+      "seconds_remaining": 2547.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Jokic 3' Driving Layup (6 PTS) (Murray 2 AST)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 345.0,
+      "seconds_remaining": 2535.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Davis 6' Driving Finger Roll Layup",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 346.0,
+      "seconds_remaining": 2534.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Jokic REBOUND (Off:1 Def:2)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 349.0,
+      "seconds_remaining": 2531.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Murray 26' 3PT Running Jump Shot",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 353.0,
+      "seconds_remaining": 2527.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 353.0,
+      "seconds_remaining": 2527.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "NUGGETS Timeout: Regular (Full 1 Short 0)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 353.0,
+      "seconds_remaining": 2527.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "SUB: Jackson FOR Murray",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 353.0,
+      "seconds_remaining": 2527.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "SUB: Hachimura FOR James",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 353.0,
+      "seconds_remaining": 2527.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "SUB: Vincent FOR Russell",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 367.0,
+      "seconds_remaining": 2513.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Prince 3PT Jump Shot",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 370.0,
+      "seconds_remaining": 2510.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Jokic REBOUND (Off:1 Def:3)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 381.0,
+      "seconds_remaining": 2499.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Caldwell-Pope Lost Ball Turnover (P1.T2)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 381.0,
+      "seconds_remaining": 2499.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Reaves STEAL (1 STL)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 387.0,
+      "seconds_remaining": 2493.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Davis 5' Running Layup",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 388.0,
+      "seconds_remaining": 2492.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Hachimura REBOUND (Off:1 Def:0)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 388.0,
+      "seconds_remaining": 2492.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Hachimura 3' Turnaround Bank Shot",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 391.0,
+      "seconds_remaining": 2489.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Jackson REBOUND (Off:0 Def:1)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 394.0,
+      "seconds_remaining": 2486.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "MISS Porter Jr. 25' 3PT Running Jump Shot",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 398.0,
+      "seconds_remaining": 2482.0,
+      "score_diff": 4.0,
+      "score_home": 20.0,
+      "score_away": 16.0,
+      "description": "Jokic REBOUND (Off:2 Def:3)",
+      "win_probability": 0.6561
+    },
+    {
+      "seconds_elapsed": 399.0,
+      "seconds_remaining": 2481.0,
+      "score_diff": 6.0,
+      "score_home": 22.0,
+      "score_away": 16.0,
+      "description": "Jokic 6' Turnaround Hook Shot (8 PTS)",
+      "win_probability": 0.6698
+    },
+    {
+      "seconds_elapsed": 417.0,
+      "seconds_remaining": 2463.0,
+      "score_diff": 6.0,
+      "score_home": 22.0,
+      "score_away": 16.0,
+      "description": "Davis Bad Pass Turnover (P1.T1)",
+      "win_probability": 0.6652
+    },
+    {
+      "seconds_elapsed": 417.0,
+      "seconds_remaining": 2463.0,
+      "score_diff": 6.0,
+      "score_home": 22.0,
+      "score_away": 16.0,
+      "description": "Gordon STEAL (1 STL)",
+      "win_probability": 0.6652
+    },
+    {
+      "seconds_elapsed": 433.0,
+      "seconds_remaining": 2447.0,
+      "score_diff": 8.0,
+      "score_home": 24.0,
+      "score_away": 16.0,
+      "description": "Jokic 6' Turnaround Hook Shot (10 PTS) (Gordon 3 AST)",
+      "win_probability": 0.6848
+    },
+    {
+      "seconds_elapsed": 455.0,
+      "seconds_remaining": 2425.0,
+      "score_diff": 8.0,
+      "score_home": 24.0,
+      "score_away": 16.0,
+      "description": "Davis Bad Pass Turnover (P2.T2)",
+      "win_probability": 0.6854
+    },
+    {
+      "seconds_elapsed": 455.0,
+      "seconds_remaining": 2425.0,
+      "score_diff": 8.0,
+      "score_home": 24.0,
+      "score_away": 16.0,
+      "description": "Gordon STEAL (2 STL)",
+      "win_probability": 0.6854
+    },
+    {
+      "seconds_elapsed": 460.0,
+      "seconds_remaining": 2420.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "Caldwell-Pope 3PT Running Jump Shot (5 PTS) (Gordon 4 AST)",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 480.0,
+      "seconds_remaining": 2400.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "MISS Davis 17' Step Back Jump Shot",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 483.0,
+      "seconds_remaining": 2397.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "Prince REBOUND (Off:1 Def:0)",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 487.0,
+      "seconds_remaining": 2393.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "MISS Hachimura 25' 3PT Jump Shot",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 491.0,
+      "seconds_remaining": 2389.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "Gordon REBOUND (Off:0 Def:3)",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 502.0,
+      "seconds_remaining": 2378.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "MISS Porter Jr. 29' 3PT Jump Shot",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 505.0,
+      "seconds_remaining": 2375.0,
+      "score_diff": 11.0,
+      "score_home": 27.0,
+      "score_away": 16.0,
+      "description": "Prince REBOUND (Off:1 Def:1)",
+      "win_probability": 0.7329
+    },
+    {
+      "seconds_elapsed": 514.0,
+      "seconds_remaining": 2366.0,
+      "score_diff": 9.0,
+      "score_home": 27.0,
+      "score_away": 18.0,
+      "description": "Reaves 3' Driving Layup (2 PTS)",
+      "win_probability": 0.7159
+    },
+    {
+      "seconds_elapsed": 529.0,
+      "seconds_remaining": 2351.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Jackson 3' Reverse Layup (2 PTS) (Jokic 2 AST)",
+      "win_probability": 0.7376
+    },
+    {
+      "seconds_elapsed": 544.0,
+      "seconds_remaining": 2336.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "MISS Reaves 12' Pullup Jump Shot",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 545.0,
+      "seconds_remaining": 2335.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Porter Jr. REBOUND (Off:0 Def:3)",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T3)",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Lakers Timeout: Regular (Reg.1 Short 0)",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Watson FOR Porter Jr.",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Nnaji FOR Caldwell-Pope",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Murray FOR Jokic",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Braun FOR Gordon",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Hayes FOR Davis",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Reddish FOR Prince",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 550.0,
+      "seconds_remaining": 2330.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "SUB: Russell FOR Reaves",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 571.0,
+      "seconds_remaining": 2309.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "MISS Vincent 26' 3PT Pullup Jump Shot",
+      "win_probability": 0.7394
+    },
+    {
+      "seconds_elapsed": 575.0,
+      "seconds_remaining": 2305.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Jackson REBOUND (Off:0 Def:2)",
+      "win_probability": 0.7433
+    },
+    {
+      "seconds_elapsed": 579.0,
+      "seconds_remaining": 2301.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Vincent P.FOUL (P1.T2) (S.Twardoski)",
+      "win_probability": 0.7433
+    },
+    {
+      "seconds_elapsed": 590.0,
+      "seconds_remaining": 2290.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Braun Lost Ball Turnover (P1.T4)",
+      "win_probability": 0.7433
+    },
+    {
+      "seconds_elapsed": 590.0,
+      "seconds_remaining": 2290.0,
+      "score_diff": 11.0,
+      "score_home": 29.0,
+      "score_away": 18.0,
+      "description": "Russell STEAL (1 STL)",
+      "win_probability": 0.7433
+    },
+    {
+      "seconds_elapsed": 604.0,
+      "seconds_remaining": 2276.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Russell 6' Floating Jump Shot (2 PTS)",
+      "win_probability": 0.7243
+    },
+    {
+      "seconds_elapsed": 626.0,
+      "seconds_remaining": 2254.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "MISS Watson 3PT Jump Shot",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 630.0,
+      "seconds_remaining": 2250.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Reddish REBOUND (Off:0 Def:1)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 646.0,
+      "seconds_remaining": 2234.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "MISS Reddish 25' 3PT Jump Shot",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 648.0,
+      "seconds_remaining": 2232.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Braun REBOUND (Off:0 Def:1)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 660.0,
+      "seconds_remaining": 2220.0,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "MISS Nnaji 27' 3PT Jump Shot",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 662.2,
+      "seconds_remaining": 2217.8,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Russell REBOUND (Off:0 Def:1)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 664.2,
+      "seconds_remaining": 2215.8,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Russell Bad Pass Turnover (P1.T3)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 664.2,
+      "seconds_remaining": 2215.8,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Jackson STEAL (1 STL)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 679.4,
+      "seconds_remaining": 2200.6,
+      "score_diff": 9.0,
+      "score_home": 29.0,
+      "score_away": 20.0,
+      "description": "Hayes S.FOUL (P1.T3) (K.Cutler)",
+      "win_probability": 0.7261
+    },
+    {
+      "seconds_elapsed": 679.4,
+      "seconds_remaining": 2200.6,
+      "score_diff": 10.0,
+      "score_home": 30.0,
+      "score_away": 20.0,
+      "description": "Nnaji Free Throw 1 of 2 (1 PTS)",
+      "win_probability": 0.7269
+    },
+    {
+      "seconds_elapsed": 679.4,
+      "seconds_remaining": 2200.6,
+      "score_diff": 10.0,
+      "score_home": 30.0,
+      "score_away": 20.0,
+      "description": "SUB: James FOR Hachimura",
+      "win_probability": 0.7269
+    },
+    {
+      "seconds_elapsed": 679.4,
+      "seconds_remaining": 2200.6,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "Nnaji Free Throw 2 of 2 (2 PTS)",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 696.3,
+      "seconds_remaining": 2183.7,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "MISS Russell 3' Driving Layup",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 696.3,
+      "seconds_remaining": 2183.7,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "Watson BLOCK (1 BLK)",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 696.4,
+      "seconds_remaining": 2183.6,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 700.1,
+      "seconds_remaining": 2179.9,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "MISS James 23' Jump Shot",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 703.0,
+      "seconds_remaining": 2177.0,
+      "score_diff": 11.0,
+      "score_home": 31.0,
+      "score_away": 20.0,
+      "description": "Murray REBOUND (Off:0 Def:1)",
+      "win_probability": 0.7473
+    },
+    {
+      "seconds_elapsed": 718.9,
+      "seconds_remaining": 2161.1,
+      "score_diff": 14.0,
+      "score_home": 34.0,
+      "score_away": 20.0,
+      "description": "Jackson 26' 3PT Step Back Jump Shot (5 PTS) (Nnaji 1 AST)",
+      "win_probability": 0.8274
+    },
+    {
+      "seconds_elapsed": 720.0,
+      "seconds_remaining": 2160.0,
+      "score_diff": 14.0,
+      "score_home": 34.0,
+      "score_away": 20.0,
+      "description": "End of 1st Period (8:00 PM EST)",
+      "win_probability": 0.8274
+    },
+    {
+      "seconds_elapsed": 720.0,
+      "seconds_remaining": 2160.0,
+      "score_diff": 14.0,
+      "score_home": 34.0,
+      "score_away": 20.0,
+      "description": "Start of 2nd Period (8:04 PM EST)",
+      "win_probability": 0.8274
+    },
+    {
+      "seconds_elapsed": 734.0,
+      "seconds_remaining": 2146.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "Watson 26' 3PT Jump Shot (3 PTS) (Murray 3 AST)",
+      "win_probability": 0.8924
+    },
+    {
+      "seconds_elapsed": 756.0,
+      "seconds_remaining": 2124.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "MISS James 4' Driving Layup",
+      "win_probability": 0.8924
+    },
+    {
+      "seconds_elapsed": 756.0,
+      "seconds_remaining": 2124.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "Braun BLOCK (1 BLK)",
+      "win_probability": 0.8924
+    },
+    {
+      "seconds_elapsed": 756.0,
+      "seconds_remaining": 2124.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.8924
+    },
+    {
+      "seconds_elapsed": 761.0,
+      "seconds_remaining": 2119.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "Wood Traveling Turnover (P1.T4)",
+      "win_probability": 0.8924
+    },
+    {
+      "seconds_elapsed": 781.0,
+      "seconds_remaining": 2099.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "MISS Jackson 16' Pullup Jump Shot",
+      "win_probability": 0.8566
+    },
+    {
+      "seconds_elapsed": 783.0,
+      "seconds_remaining": 2097.0,
+      "score_diff": 17.0,
+      "score_home": 37.0,
+      "score_away": 20.0,
+      "description": "Hayes REBOUND (Off:0 Def:1)",
+      "win_probability": 0.8566
+    },
+    {
+      "seconds_elapsed": 796.0,
+      "seconds_remaining": 2084.0,
+      "score_diff": 15.0,
+      "score_home": 37.0,
+      "score_away": 22.0,
+      "description": "Wood 7' Turnaround Jump Shot (2 PTS) (Russell 2 AST)",
+      "win_probability": 0.8302
+    },
+    {
+      "seconds_elapsed": 822.0,
+      "seconds_remaining": 2058.0,
+      "score_diff": 18.0,
+      "score_home": 40.0,
+      "score_away": 22.0,
+      "description": "Jackson 3PT Jump Shot (8 PTS)",
+      "win_probability": 0.897
+    },
+    {
+      "seconds_elapsed": 837.0,
+      "seconds_remaining": 2043.0,
+      "score_diff": 16.0,
+      "score_home": 40.0,
+      "score_away": 24.0,
+      "description": "James 2' Driving Finger Roll Layup (6 PTS)",
+      "win_probability": 0.8797
+    },
+    {
+      "seconds_elapsed": 853.0,
+      "seconds_remaining": 2027.0,
+      "score_diff": 16.0,
+      "score_home": 40.0,
+      "score_away": 24.0,
+      "description": "Russell P.FOUL (P1.T1) (S.Twardoski)",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 859.0,
+      "seconds_remaining": 2021.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "Nnaji 1' Dunk (4 PTS) (Jackson 1 AST)",
+      "win_probability": 0.8713
+    },
+    {
+      "seconds_elapsed": 872.0,
+      "seconds_remaining": 2008.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "MISS Russell 4' Driving Floating Jump Shot",
+      "win_probability": 0.8713
+    },
+    {
+      "seconds_elapsed": 873.0,
+      "seconds_remaining": 2007.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "Murray REBOUND (Off:0 Def:2)",
+      "win_probability": 0.8713
+    },
+    {
+      "seconds_elapsed": 889.0,
+      "seconds_remaining": 1991.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "Russell P.FOUL (P2.T2) (J.Williams)",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 889.0,
+      "seconds_remaining": 1991.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "SUB: Caldwell-Pope FOR Jackson",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 889.0,
+      "seconds_remaining": 1991.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "SUB: Davis FOR Hayes",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 895.0,
+      "seconds_remaining": 1985.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "Vincent P.FOUL (P2.T3) (S.Twardoski)",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 898.0,
+      "seconds_remaining": 1982.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "Vincent P.FOUL (P3.T4) (J.Williams)",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 898.0,
+      "seconds_remaining": 1982.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "SUB: Reddish FOR Vincent",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 913.0,
+      "seconds_remaining": 1967.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "MISS Nnaji 4' Driving Layup",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 915.0,
+      "seconds_remaining": 1965.0,
+      "score_diff": 18.0,
+      "score_home": 42.0,
+      "score_away": 24.0,
+      "description": "James REBOUND (Off:0 Def:3)",
+      "win_probability": 0.8656
+    },
+    {
+      "seconds_elapsed": 920.0,
+      "seconds_remaining": 1960.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "James 3' Running Finger Roll Layup (8 PTS)",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 922.0,
+      "seconds_remaining": 1958.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "NUGGETS Timeout: Regular (Full 2 Short 0)",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 922.0,
+      "seconds_remaining": 1958.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "SUB: Jokic FOR Watson",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 922.0,
+      "seconds_remaining": 1958.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "SUB: Jackson FOR Nnaji",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 922.0,
+      "seconds_remaining": 1958.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "SUB: Gordon FOR Murray",
+      "win_probability": 0.8758
+    },
+    {
+      "seconds_elapsed": 941.0,
+      "seconds_remaining": 1939.0,
+      "score_diff": 16.0,
+      "score_home": 42.0,
+      "score_away": 26.0,
+      "description": "Jackson Out of Bounds - Bad Pass Turnover Turnover (P2.T5)",
+      "win_probability": 0.8802
+    },
+    {
+      "seconds_elapsed": 950.0,
+      "seconds_remaining": 1930.0,
+      "score_diff": 13.0,
+      "score_home": 42.0,
+      "score_away": 29.0,
+      "description": "Reddish 25' 3PT Jump Shot (3 PTS) (Russell 3 AST)",
+      "win_probability": 0.7944
+    },
+    {
+      "seconds_elapsed": 966.0,
+      "seconds_remaining": 1914.0,
+      "score_diff": 15.0,
+      "score_home": 44.0,
+      "score_away": 29.0,
+      "description": "Jokic 3' Layup (12 PTS)",
+      "win_probability": 0.8424
+    },
+    {
+      "seconds_elapsed": 976.0,
+      "seconds_remaining": 1904.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "Davis 26' 3PT Jump Shot (9 PTS) (Russell 4 AST)",
+      "win_probability": 0.7916
+    },
+    {
+      "seconds_elapsed": 995.0,
+      "seconds_remaining": 1885.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "MISS Jackson 27' 3PT Jump Shot",
+      "win_probability": 0.7916
+    },
+    {
+      "seconds_elapsed": 998.0,
+      "seconds_remaining": 1882.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "Russell REBOUND (Off:0 Def:2)",
+      "win_probability": 0.7916
+    },
+    {
+      "seconds_elapsed": 1008.0,
+      "seconds_remaining": 1872.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "MISS Wood 25' 3PT Jump Shot",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1012.0,
+      "seconds_remaining": 1868.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "Jackson REBOUND (Off:0 Def:3)",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1015.0,
+      "seconds_remaining": 1865.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "Wood S.FOUL (P1.PN) (S.Twardoski)",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1015.0,
+      "seconds_remaining": 1865.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "MISS Braun Free Throw 1 of 2",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1015.0,
+      "seconds_remaining": 1865.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1015.0,
+      "seconds_remaining": 1865.0,
+      "score_diff": 12.0,
+      "score_home": 44.0,
+      "score_away": 32.0,
+      "description": "SUB: Reaves FOR Russell",
+      "win_probability": 0.7981
+    },
+    {
+      "seconds_elapsed": 1015.0,
+      "seconds_remaining": 1865.0,
+      "score_diff": 13.0,
+      "score_home": 45.0,
+      "score_away": 32.0,
+      "description": "Braun Free Throw 2 of 2 (1 PTS)",
+      "win_probability": 0.8046
+    },
+    {
+      "seconds_elapsed": 1030.0,
+      "seconds_remaining": 1850.0,
+      "score_diff": 11.0,
+      "score_home": 45.0,
+      "score_away": 34.0,
+      "description": "Davis 5' Turnaround Jump Shot (11 PTS)",
+      "win_probability": 0.7889
+    },
+    {
+      "seconds_elapsed": 1045.0,
+      "seconds_remaining": 1835.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "Jokic 4' Hook Shot (14 PTS)",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1045.0,
+      "seconds_remaining": 1835.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "Davis S.FOUL (P2.PN) (J.Williams)",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1045.0,
+      "seconds_remaining": 1835.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "SUB: Porter Jr. FOR Braun",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1045.0,
+      "seconds_remaining": 1835.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "SUB: Prince FOR James",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1045.0,
+      "seconds_remaining": 1835.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "MISS Jokic Free Throw 1 of 1",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1048.0,
+      "seconds_remaining": 1832.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "Wood REBOUND (Off:0 Def:1)",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1066.0,
+      "seconds_remaining": 1814.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "MISS Davis 15' Step Back Jump Shot",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1070.0,
+      "seconds_remaining": 1810.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "Jokic REBOUND (Off:2 Def:4)",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1071.0,
+      "seconds_remaining": 1809.0,
+      "score_diff": 13.0,
+      "score_home": 47.0,
+      "score_away": 34.0,
+      "description": "Reddish S.FOUL (P1.PN) (K.Cutler)",
+      "win_probability": 0.8048
+    },
+    {
+      "seconds_elapsed": 1071.0,
+      "seconds_remaining": 1809.0,
+      "score_diff": 14.0,
+      "score_home": 48.0,
+      "score_away": 34.0,
+      "description": "Caldwell-Pope Free Throw 1 of 2 (6 PTS)",
+      "win_probability": 0.8442
+    },
+    {
+      "seconds_elapsed": 1071.0,
+      "seconds_remaining": 1809.0,
+      "score_diff": 15.0,
+      "score_home": 49.0,
+      "score_away": 34.0,
+      "description": "Caldwell-Pope Free Throw 2 of 2 (7 PTS)",
+      "win_probability": 0.8467
+    },
+    {
+      "seconds_elapsed": 1084.0,
+      "seconds_remaining": 1796.0,
+      "score_diff": 13.0,
+      "score_home": 49.0,
+      "score_away": 36.0,
+      "description": "Prince 3' Driving Finger Roll Layup (8 PTS) (Davis 1 AST)",
+      "win_probability": 0.8083
+    },
+    {
+      "seconds_elapsed": 1097.0,
+      "seconds_remaining": 1783.0,
+      "score_diff": 16.0,
+      "score_home": 52.0,
+      "score_away": 36.0,
+      "description": "Jokic 26' 3PT Jump Shot (17 PTS) (Gordon 5 AST)",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1109.0,
+      "seconds_remaining": 1771.0,
+      "score_diff": 14.0,
+      "score_home": 52.0,
+      "score_away": 38.0,
+      "description": "Reaves 20' Pullup Jump Shot (4 PTS)",
+      "win_probability": 0.8479
+    },
+    {
+      "seconds_elapsed": 1127.0,
+      "seconds_remaining": 1753.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "Gordon 3' Layup (4 PTS)",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1138.0,
+      "seconds_remaining": 1742.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "MISS Reaves 20' Step Back Jump Shot",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1141.0,
+      "seconds_remaining": 1739.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "Jokic REBOUND (Off:2 Def:5)",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1154.0,
+      "seconds_remaining": 1726.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "MISS Gordon 4' Reverse Layup",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1154.0,
+      "seconds_remaining": 1726.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "Reddish BLOCK (1 BLK)",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1156.0,
+      "seconds_remaining": 1724.0,
+      "score_diff": 16.0,
+      "score_home": 54.0,
+      "score_away": 38.0,
+      "description": "Reaves REBOUND (Off:1 Def:2)",
+      "win_probability": 0.886
+    },
+    {
+      "seconds_elapsed": 1160.0,
+      "seconds_remaining": 1720.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "Wood 2' Running Dunk (4 PTS) (Reaves 1 AST)",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1181.0,
+      "seconds_remaining": 1699.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "MISS Jokic 9' Jump Shot",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1183.0,
+      "seconds_remaining": 1697.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "Gordon REBOUND (Off:1 Def:3)",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1186.0,
+      "seconds_remaining": 1694.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "MISS Jackson 3PT Jump Shot",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1190.0,
+      "seconds_remaining": 1690.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "Reaves REBOUND (Off:1 Def:3)",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 14.0,
+      "score_home": 54.0,
+      "score_away": 40.0,
+      "description": "Jokic S.FOUL (P2.T1) (K.Cutler)",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 13.0,
+      "score_home": 54.0,
+      "score_away": 41.0,
+      "description": "Davis Free Throw 1 of 2 (12 PTS)",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 13.0,
+      "score_home": 54.0,
+      "score_away": 41.0,
+      "description": "SUB: Murray FOR Jackson",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 13.0,
+      "score_home": 54.0,
+      "score_away": 41.0,
+      "description": "SUB: Russell FOR Reddish",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 13.0,
+      "score_home": 54.0,
+      "score_away": 41.0,
+      "description": "SUB: Hachimura FOR Wood",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1194.0,
+      "seconds_remaining": 1686.0,
+      "score_diff": 12.0,
+      "score_home": 54.0,
+      "score_away": 42.0,
+      "description": "Davis Free Throw 2 of 2 (13 PTS)",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1207.0,
+      "seconds_remaining": 1673.0,
+      "score_diff": 12.0,
+      "score_home": 54.0,
+      "score_away": 42.0,
+      "description": "MISS Caldwell-Pope 26' 3PT Jump Shot",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1208.0,
+      "seconds_remaining": 1672.0,
+      "score_diff": 12.0,
+      "score_home": 54.0,
+      "score_away": 42.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1208.0,
+      "seconds_remaining": 1672.0,
+      "score_diff": 12.0,
+      "score_home": 54.0,
+      "score_away": 42.0,
+      "description": "Hachimura L.B.FOUL (P1.PN) (K.Cutler)",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1208.0,
+      "seconds_remaining": 1672.0,
+      "score_diff": 13.0,
+      "score_home": 55.0,
+      "score_away": 42.0,
+      "description": "Jokic Free Throw 1 of 2 (18 PTS)",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1208.0,
+      "seconds_remaining": 1672.0,
+      "score_diff": 14.0,
+      "score_home": 56.0,
+      "score_away": 42.0,
+      "description": "Jokic Free Throw 2 of 2 (19 PTS)",
+      "win_probability": 0.847
+    },
+    {
+      "seconds_elapsed": 1219.0,
+      "seconds_remaining": 1661.0,
+      "score_diff": 12.0,
+      "score_home": 56.0,
+      "score_away": 44.0,
+      "description": "Davis 6' Turnaround Hook Shot (15 PTS) (Prince 1 AST)",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1238.0,
+      "seconds_remaining": 1642.0,
+      "score_diff": 12.0,
+      "score_home": 56.0,
+      "score_away": 44.0,
+      "description": "MISS Caldwell-Pope 14' Pullup Jump Shot",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1238.0,
+      "seconds_remaining": 1642.0,
+      "score_diff": 12.0,
+      "score_home": 56.0,
+      "score_away": 44.0,
+      "description": "Davis REBOUND (Off:0 Def:1)",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1249.0,
+      "seconds_remaining": 1631.0,
+      "score_diff": 12.0,
+      "score_home": 56.0,
+      "score_away": 44.0,
+      "description": "Caldwell-Pope S.FOUL (P1.T2) (J.Williams)",
+      "win_probability": 0.8018
+    },
+    {
+      "seconds_elapsed": 1249.0,
+      "seconds_remaining": 1631.0,
+      "score_diff": 11.0,
+      "score_home": 56.0,
+      "score_away": 45.0,
+      "description": "Reaves Free Throw 1 of 2 (5 PTS)",
+      "win_probability": 0.7924
+    },
+    {
+      "seconds_elapsed": 1249.0,
+      "seconds_remaining": 1631.0,
+      "score_diff": 10.0,
+      "score_home": 56.0,
+      "score_away": 46.0,
+      "description": "Reaves Free Throw 2 of 2 (6 PTS)",
+      "win_probability": 0.7746
+    },
+    {
+      "seconds_elapsed": 1261.0,
+      "seconds_remaining": 1619.0,
+      "score_diff": 10.0,
+      "score_home": 56.0,
+      "score_away": 46.0,
+      "description": "MISS Porter Jr. 26' 3PT Jump Shot",
+      "win_probability": 0.7746
+    },
+    {
+      "seconds_elapsed": 1265.0,
+      "seconds_remaining": 1615.0,
+      "score_diff": 10.0,
+      "score_home": 56.0,
+      "score_away": 46.0,
+      "description": "Prince REBOUND (Off:1 Def:2)",
+      "win_probability": 0.7746
+    },
+    {
+      "seconds_elapsed": 1274.0,
+      "seconds_remaining": 1606.0,
+      "score_diff": 8.0,
+      "score_home": 56.0,
+      "score_away": 48.0,
+      "description": "Davis 3' Driving Finger Roll Layup (17 PTS)",
+      "win_probability": 0.7539
+    },
+    {
+      "seconds_elapsed": 1284.0,
+      "seconds_remaining": 1596.0,
+      "score_diff": 8.0,
+      "score_home": 56.0,
+      "score_away": 48.0,
+      "description": "MISS Porter Jr. 3' Driving Layup",
+      "win_probability": 0.7539
+    },
+    {
+      "seconds_elapsed": 1287.0,
+      "seconds_remaining": 1593.0,
+      "score_diff": 8.0,
+      "score_home": 56.0,
+      "score_away": 48.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:3)",
+      "win_probability": 0.7539
+    },
+    {
+      "seconds_elapsed": 1287.0,
+      "seconds_remaining": 1593.0,
+      "score_diff": 10.0,
+      "score_home": 58.0,
+      "score_away": 48.0,
+      "description": "Porter Jr. Tip Layup Shot (7 PTS)",
+      "win_probability": 0.7772
+    },
+    {
+      "seconds_elapsed": 1303.0,
+      "seconds_remaining": 1577.0,
+      "score_diff": 10.0,
+      "score_home": 58.0,
+      "score_away": 48.0,
+      "description": "MISS Prince 25' 3PT Pullup Jump Shot",
+      "win_probability": 0.7799
+    },
+    {
+      "seconds_elapsed": 1305.0,
+      "seconds_remaining": 1575.0,
+      "score_diff": 10.0,
+      "score_home": 58.0,
+      "score_away": 48.0,
+      "description": "Reaves REBOUND (Off:2 Def:3)",
+      "win_probability": 0.7799
+    },
+    {
+      "seconds_elapsed": 1306.0,
+      "seconds_remaining": 1574.0,
+      "score_diff": 10.0,
+      "score_home": 58.0,
+      "score_away": 48.0,
+      "description": "Reaves Bad Pass Turnover (P1.T5)",
+      "win_probability": 0.7799
+    },
+    {
+      "seconds_elapsed": 1306.0,
+      "seconds_remaining": 1574.0,
+      "score_diff": 10.0,
+      "score_home": 58.0,
+      "score_away": 48.0,
+      "description": "Porter Jr. STEAL (1 STL)",
+      "win_probability": 0.7799
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 12.0,
+      "score_home": 60.0,
+      "score_away": 48.0,
+      "description": "Murray 4' Running Finger Roll Layup (7 PTS) (Porter Jr. 1 AST)",
+      "win_probability": 0.8066
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 12.0,
+      "score_home": 60.0,
+      "score_away": 48.0,
+      "description": "Davis S.FOUL (P3.PN) (J.Williams)",
+      "win_probability": 0.8066
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 12.0,
+      "score_home": 60.0,
+      "score_away": 48.0,
+      "description": "Lakers Timeout: Regular (Reg.2 Short 0)",
+      "win_probability": 0.8066
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 12.0,
+      "score_home": 60.0,
+      "score_away": 48.0,
+      "description": "SUB: James FOR Davis",
+      "win_probability": 0.8066
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 12.0,
+      "score_home": 60.0,
+      "score_away": 48.0,
+      "description": "Lane",
+      "win_probability": 0.8066
+    },
+    {
+      "seconds_elapsed": 1313.0,
+      "seconds_remaining": 1567.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Murray Free Throw 1 of 1 (8 PTS)",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1326.0,
+      "seconds_remaining": 1554.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "MISS James 11' Fadeaway Jumper",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1328.0,
+      "seconds_remaining": 1552.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Hachimura REBOUND (Off:2 Def:0)",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1330.0,
+      "seconds_remaining": 1550.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "MISS Hachimura 2' Putback Layup",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1330.0,
+      "seconds_remaining": 1550.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Gordon BLOCK (1 BLK)",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1332.0,
+      "seconds_remaining": 1548.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Reaves REBOUND (Off:3 Def:3)",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1338.0,
+      "seconds_remaining": 1542.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "MISS Hachimura 3' Driving Layup",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1340.0,
+      "seconds_remaining": 1540.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Jokic REBOUND (Off:2 Def:6)",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1355.0,
+      "seconds_remaining": 1525.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "MISS Jokic 6' Jump Shot",
+      "win_probability": 0.8129
+    },
+    {
+      "seconds_elapsed": 1358.0,
+      "seconds_remaining": 1522.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "James REBOUND (Off:0 Def:4)",
+      "win_probability": 0.8172
+    },
+    {
+      "seconds_elapsed": 1364.0,
+      "seconds_remaining": 1516.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "MISS Reaves 5' Driving Layup",
+      "win_probability": 0.8172
+    },
+    {
+      "seconds_elapsed": 1364.0,
+      "seconds_remaining": 1516.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Murray BLOCK (1 BLK)",
+      "win_probability": 0.8172
+    },
+    {
+      "seconds_elapsed": 1366.0,
+      "seconds_remaining": 1514.0,
+      "score_diff": 13.0,
+      "score_home": 61.0,
+      "score_away": 48.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:4)",
+      "win_probability": 0.8172
+    },
+    {
+      "seconds_elapsed": 1368.0,
+      "seconds_remaining": 1512.0,
+      "score_diff": 15.0,
+      "score_home": 63.0,
+      "score_away": 48.0,
+      "description": "Caldwell-Pope 3' Running Layup (9 PTS) (Porter Jr. 2 AST)",
+      "win_probability": 0.8618
+    },
+    {
+      "seconds_elapsed": 1381.2,
+      "seconds_remaining": 1498.8,
+      "score_diff": 13.0,
+      "score_home": 63.0,
+      "score_away": 50.0,
+      "description": "Hachimura 3' Cutting Layup Shot (2 PTS) (Russell 5 AST)",
+      "win_probability": 0.8231
+    },
+    {
+      "seconds_elapsed": 1393.7,
+      "seconds_remaining": 1486.3,
+      "score_diff": 13.0,
+      "score_home": 63.0,
+      "score_away": 50.0,
+      "description": "MISS Jokic 4' Fadeaway Jumper",
+      "win_probability": 0.8231
+    },
+    {
+      "seconds_elapsed": 1395.1,
+      "seconds_remaining": 1484.9,
+      "score_diff": 13.0,
+      "score_home": 63.0,
+      "score_away": 50.0,
+      "description": "James REBOUND (Off:0 Def:5)",
+      "win_probability": 0.8231
+    },
+    {
+      "seconds_elapsed": 1399.3,
+      "seconds_remaining": 1480.7,
+      "score_diff": 11.0,
+      "score_home": 63.0,
+      "score_away": 52.0,
+      "description": "James 4' Running Layup (10 PTS)",
+      "win_probability": 0.8082
+    },
+    {
+      "seconds_elapsed": 1408.3,
+      "seconds_remaining": 1471.7,
+      "score_diff": 11.0,
+      "score_home": 63.0,
+      "score_away": 52.0,
+      "description": "MISS Caldwell-Pope 5' Driving Layup",
+      "win_probability": 0.814
+    },
+    {
+      "seconds_elapsed": 1409.3,
+      "seconds_remaining": 1470.7,
+      "score_diff": 11.0,
+      "score_home": 63.0,
+      "score_away": 52.0,
+      "description": "Jokic REBOUND (Off:3 Def:6)",
+      "win_probability": 0.814
+    },
+    {
+      "seconds_elapsed": 1410.3,
+      "seconds_remaining": 1469.7,
+      "score_diff": 11.0,
+      "score_home": 63.0,
+      "score_away": 52.0,
+      "description": "MISS Jokic 5' Putback Layup",
+      "win_probability": 0.814
+    },
+    {
+      "seconds_elapsed": 1412.4,
+      "seconds_remaining": 1467.6,
+      "score_diff": 11.0,
+      "score_home": 63.0,
+      "score_away": 52.0,
+      "description": "Reaves REBOUND (Off:3 Def:4)",
+      "win_probability": 0.8231
+    },
+    {
+      "seconds_elapsed": 1415.1,
+      "seconds_remaining": 1464.9,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "Russell 2' Running Layup (4 PTS) (Reaves 2 AST)",
+      "win_probability": 0.7973
+    },
+    {
+      "seconds_elapsed": 1436.0,
+      "seconds_remaining": 1444.0,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "MISS Gordon 9' Driving Floating Jump Shot",
+      "win_probability": 0.7973
+    },
+    {
+      "seconds_elapsed": 1437.5,
+      "seconds_remaining": 1442.5,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "Hachimura REBOUND (Off:2 Def:1)",
+      "win_probability": 0.8057
+    },
+    {
+      "seconds_elapsed": 1440.0,
+      "seconds_remaining": 1440.0,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "End of 2nd Period (8:34 PM EST)",
+      "win_probability": 0.804
+    },
+    {
+      "seconds_elapsed": 1440.0,
+      "seconds_remaining": 1440.0,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "Start of 3rd Period (8:50 PM EST)",
+      "win_probability": 0.804
+    },
+    {
+      "seconds_elapsed": 1449.0,
+      "seconds_remaining": 1431.0,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "Murray Bad Pass Turnover (P1.T6)",
+      "win_probability": 0.804
+    },
+    {
+      "seconds_elapsed": 1449.0,
+      "seconds_remaining": 1431.0,
+      "score_diff": 9.0,
+      "score_home": 63.0,
+      "score_away": 54.0,
+      "description": "Reaves STEAL (2 STL)",
+      "win_probability": 0.804
+    },
+    {
+      "seconds_elapsed": 1454.0,
+      "seconds_remaining": 1426.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "Reaves Running Dunk (8 PTS)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1474.0,
+      "seconds_remaining": 1406.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "MISS Gordon 3PT Jump Shot",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1475.0,
+      "seconds_remaining": 1405.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "Russell REBOUND (Off:0 Def:3)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1482.0,
+      "seconds_remaining": 1398.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "MISS Russell 5' Driving Floating Bank Jump Shot",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1484.0,
+      "seconds_remaining": 1396.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "Jokic REBOUND (Off:3 Def:7)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1491.0,
+      "seconds_remaining": 1389.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "MISS Porter Jr. 24' 3PT Jump Shot",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1495.0,
+      "seconds_remaining": 1385.0,
+      "score_diff": 7.0,
+      "score_home": 63.0,
+      "score_away": 56.0,
+      "description": "James REBOUND (Off:0 Def:6)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1497.0,
+      "seconds_remaining": 1383.0,
+      "score_diff": 5.0,
+      "score_home": 63.0,
+      "score_away": 58.0,
+      "description": "Prince 4' Running Layup (10 PTS) (James 3 AST)",
+      "win_probability": 0.691
+    },
+    {
+      "seconds_elapsed": 1497.0,
+      "seconds_remaining": 1383.0,
+      "score_diff": 5.0,
+      "score_home": 63.0,
+      "score_away": 58.0,
+      "description": "NUGGETS Timeout: Regular (Full 3 Short 0)",
+      "win_probability": 0.691
+    },
+    {
+      "seconds_elapsed": 1510.0,
+      "seconds_remaining": 1370.0,
+      "score_diff": 7.0,
+      "score_home": 65.0,
+      "score_away": 58.0,
+      "description": "Murray 4' Cutting Layup Shot (10 PTS) (Jokic 3 AST)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1510.0,
+      "seconds_remaining": 1370.0,
+      "score_diff": 7.0,
+      "score_home": 65.0,
+      "score_away": 58.0,
+      "description": "James S.FOUL (P1.T1) (S.Twardoski)",
+      "win_probability": 0.7436
+    },
+    {
+      "seconds_elapsed": 1510.0,
+      "seconds_remaining": 1370.0,
+      "score_diff": 8.0,
+      "score_home": 66.0,
+      "score_away": 58.0,
+      "description": "Murray Free Throw 1 of 1 (11 PTS)",
+      "win_probability": 0.7671
+    },
+    {
+      "seconds_elapsed": 1523.0,
+      "seconds_remaining": 1357.0,
+      "score_diff": 8.0,
+      "score_home": 66.0,
+      "score_away": 58.0,
+      "description": "MISS Russell 4' Driving Layup",
+      "win_probability": 0.7671
+    },
+    {
+      "seconds_elapsed": 1524.0,
+      "seconds_remaining": 1356.0,
+      "score_diff": 8.0,
+      "score_home": 66.0,
+      "score_away": 58.0,
+      "description": "Jokic REBOUND (Off:3 Def:8)",
+      "win_probability": 0.7671
+    },
+    {
+      "seconds_elapsed": 1534.0,
+      "seconds_remaining": 1346.0,
+      "score_diff": 10.0,
+      "score_home": 68.0,
+      "score_away": 58.0,
+      "description": "Gordon 3' Layup (6 PTS) (Jokic 4 AST)",
+      "win_probability": 0.8179
+    },
+    {
+      "seconds_elapsed": 1548.0,
+      "seconds_remaining": 1332.0,
+      "score_diff": 10.0,
+      "score_home": 68.0,
+      "score_away": 58.0,
+      "description": "MISS Davis 4' Driving Finger Roll Layup",
+      "win_probability": 0.8179
+    },
+    {
+      "seconds_elapsed": 1549.0,
+      "seconds_remaining": 1331.0,
+      "score_diff": 10.0,
+      "score_home": 68.0,
+      "score_away": 58.0,
+      "description": "Reaves REBOUND (Off:4 Def:4)",
+      "win_probability": 0.8179
+    },
+    {
+      "seconds_elapsed": 1550.0,
+      "seconds_remaining": 1330.0,
+      "score_diff": 10.0,
+      "score_home": 68.0,
+      "score_away": 58.0,
+      "description": "MISS Reaves 15' Jump Shot",
+      "win_probability": 0.8179
+    },
+    {
+      "seconds_elapsed": 1553.0,
+      "seconds_remaining": 1327.0,
+      "score_diff": 10.0,
+      "score_home": 68.0,
+      "score_away": 58.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:5)",
+      "win_probability": 0.8179
+    },
+    {
+      "seconds_elapsed": 1572.0,
+      "seconds_remaining": 1308.0,
+      "score_diff": 12.0,
+      "score_home": 70.0,
+      "score_away": 58.0,
+      "description": "Murray 11' Fadeaway Jumper (13 PTS) (Jokic 5 AST)",
+      "win_probability": 0.8551
+    },
+    {
+      "seconds_elapsed": 1586.0,
+      "seconds_remaining": 1294.0,
+      "score_diff": 9.0,
+      "score_home": 70.0,
+      "score_away": 61.0,
+      "description": "Prince 26' 3PT Step Back Jump Shot (13 PTS) (Davis 2 AST)",
+      "win_probability": 0.8127
+    },
+    {
+      "seconds_elapsed": 1608.0,
+      "seconds_remaining": 1272.0,
+      "score_diff": 9.0,
+      "score_home": 70.0,
+      "score_away": 61.0,
+      "description": "MISS Porter Jr. 26' 3PT Jump Shot",
+      "win_probability": 0.8114
+    },
+    {
+      "seconds_elapsed": 1610.0,
+      "seconds_remaining": 1270.0,
+      "score_diff": 9.0,
+      "score_home": 70.0,
+      "score_away": 61.0,
+      "description": "Davis REBOUND (Off:0 Def:2)",
+      "win_probability": 0.8114
+    },
+    {
+      "seconds_elapsed": 1620.0,
+      "seconds_remaining": 1260.0,
+      "score_diff": 9.0,
+      "score_home": 70.0,
+      "score_away": 61.0,
+      "description": "Caldwell-Pope S.FOUL (P2.T1) (J.Williams)",
+      "win_probability": 0.8114
+    },
+    {
+      "seconds_elapsed": 1620.0,
+      "seconds_remaining": 1260.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "Russell Free Throw 1 of 2 (5 PTS)",
+      "win_probability": 0.7656
+    },
+    {
+      "seconds_elapsed": 1620.0,
+      "seconds_remaining": 1260.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "MISS Russell Free Throw 2 of 2",
+      "win_probability": 0.7656
+    },
+    {
+      "seconds_elapsed": 1622.0,
+      "seconds_remaining": 1258.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "Gordon REBOUND (Off:1 Def:4)",
+      "win_probability": 0.7656
+    },
+    {
+      "seconds_elapsed": 1644.0,
+      "seconds_remaining": 1236.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "MISS Jokic 20' Fadeaway Jumper",
+      "win_probability": 0.7745
+    },
+    {
+      "seconds_elapsed": 1644.0,
+      "seconds_remaining": 1236.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.7745
+    },
+    {
+      "seconds_elapsed": 1644.0,
+      "seconds_remaining": 1236.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "NUGGETS Turnover: Shot Clock (T#7)",
+      "win_probability": 0.7745
+    },
+    {
+      "seconds_elapsed": 1654.0,
+      "seconds_remaining": 1226.0,
+      "score_diff": 8.0,
+      "score_home": 70.0,
+      "score_away": 62.0,
+      "description": "Porter Jr. S.FOUL (P1.T2) (K.Cutler)",
+      "win_probability": 0.7693
+    },
+    {
+      "seconds_elapsed": 1654.0,
+      "seconds_remaining": 1226.0,
+      "score_diff": 7.0,
+      "score_home": 70.0,
+      "score_away": 63.0,
+      "description": "Prince Free Throw 1 of 2 (14 PTS)",
+      "win_probability": 0.7459
+    },
+    {
+      "seconds_elapsed": 1654.0,
+      "seconds_remaining": 1226.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "Prince Free Throw 2 of 2 (15 PTS)",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1671.0,
+      "seconds_remaining": 1209.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "MISS Murray 5' Layup",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1671.0,
+      "seconds_remaining": 1209.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "Davis BLOCK (2 BLK)",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1671.0,
+      "seconds_remaining": 1209.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1674.0,
+      "seconds_remaining": 1206.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "MISS Jokic 27' 3PT Jump Shot",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1678.0,
+      "seconds_remaining": 1202.0,
+      "score_diff": 6.0,
+      "score_home": 70.0,
+      "score_away": 64.0,
+      "description": "Caldwell-Pope REBOUND (Off:1 Def:0)",
+      "win_probability": 0.7231
+    },
+    {
+      "seconds_elapsed": 1680.0,
+      "seconds_remaining": 1200.0,
+      "score_diff": 9.0,
+      "score_home": 73.0,
+      "score_away": 64.0,
+      "description": "Murray 3PT Fadeaway Jumper (16 PTS) (Caldwell-Pope 1 AST)",
+      "win_probability": 0.8221
+    },
+    {
+      "seconds_elapsed": 1699.0,
+      "seconds_remaining": 1181.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "Russell 26' 3PT Jump Shot (8 PTS) (Reaves 3 AST)",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1716.0,
+      "seconds_remaining": 1164.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "MISS Murray 17' Step Back Jump Shot",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1718.0,
+      "seconds_remaining": 1162.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "Davis REBOUND (Off:0 Def:3)",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1725.0,
+      "seconds_remaining": 1155.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "MISS Davis 5' Driving Layup",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1727.0,
+      "seconds_remaining": 1153.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "James REBOUND (Off:1 Def:6)",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1730.0,
+      "seconds_remaining": 1150.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "MISS Reaves 4' Driving Layup",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1731.0,
+      "seconds_remaining": 1149.0,
+      "score_diff": 6.0,
+      "score_home": 73.0,
+      "score_away": 67.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:6)",
+      "win_probability": 0.7237
+    },
+    {
+      "seconds_elapsed": 1735.0,
+      "seconds_remaining": 1145.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Gordon 1' Running Alley Oop Dunk Shot (8 PTS) (Murray 4 AST)",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1756.0,
+      "seconds_remaining": 1124.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Murray P.FOUL (P1.T3) (J.Williams)",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1756.0,
+      "seconds_remaining": 1124.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "SUB: Hachimura FOR Russell",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1756.0,
+      "seconds_remaining": 1124.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "SUB: Vincent FOR James",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1763.0,
+      "seconds_remaining": 1117.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "MISS Hachimura 3' Driving Layup",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1763.0,
+      "seconds_remaining": 1117.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1767.0,
+      "seconds_remaining": 1113.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "MISS Davis 20' Jump Shot",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1770.0,
+      "seconds_remaining": 1110.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Vincent REBOUND (Off:1 Def:0)",
+      "win_probability": 0.7788
+    },
+    {
+      "seconds_elapsed": 1778.0,
+      "seconds_remaining": 1102.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "MISS Hachimura 27' 3PT Jump Shot",
+      "win_probability": 0.7739
+    },
+    {
+      "seconds_elapsed": 1782.0,
+      "seconds_remaining": 1098.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:7)",
+      "win_probability": 0.7739
+    },
+    {
+      "seconds_elapsed": 1794.0,
+      "seconds_remaining": 1086.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "MISS Porter Jr. 25' 3PT Jump Shot",
+      "win_probability": 0.7739
+    },
+    {
+      "seconds_elapsed": 1797.0,
+      "seconds_remaining": 1083.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Davis REBOUND (Off:0 Def:4)",
+      "win_probability": 0.7822
+    },
+    {
+      "seconds_elapsed": 1804.0,
+      "seconds_remaining": 1076.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "MISS Davis 3' Driving Layup",
+      "win_probability": 0.7822
+    },
+    {
+      "seconds_elapsed": 1804.0,
+      "seconds_remaining": 1076.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Caldwell-Pope BLOCK (1 BLK)",
+      "win_probability": 0.7822
+    },
+    {
+      "seconds_elapsed": 1804.0,
+      "seconds_remaining": 1076.0,
+      "score_diff": 8.0,
+      "score_home": 75.0,
+      "score_away": 67.0,
+      "description": "Davis REBOUND (Off:1 Def:4)",
+      "win_probability": 0.7822
+    },
+    {
+      "seconds_elapsed": 1806.0,
+      "seconds_remaining": 1074.0,
+      "score_diff": 6.0,
+      "score_home": 75.0,
+      "score_away": 69.0,
+      "description": "Hachimura Alley Oop Layup (4 PTS) (Davis 3 AST)",
+      "win_probability": 0.7277
+    },
+    {
+      "seconds_elapsed": 1822.0,
+      "seconds_remaining": 1058.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope 26' 3PT Jump Shot (12 PTS) (Murray 5 AST)",
+      "win_probability": 0.8141
+    },
+    {
+      "seconds_elapsed": 1851.0,
+      "seconds_remaining": 1029.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "MISS Hachimura 40' 3PT Floating Jump Shot",
+      "win_probability": 0.8289
+    },
+    {
+      "seconds_elapsed": 1851.0,
+      "seconds_remaining": 1029.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.8289
+    },
+    {
+      "seconds_elapsed": 1851.0,
+      "seconds_remaining": 1029.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "Lakers Turnover: Shot Clock (T#6)",
+      "win_probability": 0.8289
+    },
+    {
+      "seconds_elapsed": 1851.0,
+      "seconds_remaining": 1029.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "SUB: Jackson FOR Porter Jr.",
+      "win_probability": 0.8289
+    },
+    {
+      "seconds_elapsed": 1851.0,
+      "seconds_remaining": 1029.0,
+      "score_diff": 9.0,
+      "score_home": 78.0,
+      "score_away": 69.0,
+      "description": "SUB: Braun FOR Murray",
+      "win_probability": 0.8289
+    },
+    {
+      "seconds_elapsed": 1868.0,
+      "seconds_remaining": 1012.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Gordon 3' Layup (10 PTS)",
+      "win_probability": 0.8677
+    },
+    {
+      "seconds_elapsed": 1868.0,
+      "seconds_remaining": 1012.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Lakers Timeout: Regular (Reg.3 Short 0)",
+      "win_probability": 0.8677
+    },
+    {
+      "seconds_elapsed": 1868.0,
+      "seconds_remaining": 1012.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "SUB: Reddish FOR Prince",
+      "win_probability": 0.8677
+    },
+    {
+      "seconds_elapsed": 1882.0,
+      "seconds_remaining": 998.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "MISS Vincent 27' 3PT Jump Shot",
+      "win_probability": 0.8686
+    },
+    {
+      "seconds_elapsed": 1885.0,
+      "seconds_remaining": 995.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Jokic REBOUND (Off:3 Def:9)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1892.0,
+      "seconds_remaining": 988.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope Offensive Charge Foul (P3) (S.Twardoski)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1892.0,
+      "seconds_remaining": 988.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope Offensive Foul Turnover (P2.T8)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1905.0,
+      "seconds_remaining": 975.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Vincent Bad Pass Turnover (P1.T7)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1905.0,
+      "seconds_remaining": 975.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope STEAL (1 STL)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1919.0,
+      "seconds_remaining": 961.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "MISS Jokic 2' Turnaround Hook Shot",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1922.0,
+      "seconds_remaining": 958.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Davis REBOUND (Off:1 Def:5)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1925.0,
+      "seconds_remaining": 955.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "MISS Davis 5' Driving Floating Jump Shot",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1925.0,
+      "seconds_remaining": 955.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Jokic REBOUND (Off:3 Def:10)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1925.0,
+      "seconds_remaining": 955.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Hachimura P.FOUL (P2.T2) (K.Cutler)",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1925.0,
+      "seconds_remaining": 955.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "SUB: Watson FOR Gordon",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1925.0,
+      "seconds_remaining": 955.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "SUB: Russell FOR Reaves",
+      "win_probability": 0.8692
+    },
+    {
+      "seconds_elapsed": 1949.0,
+      "seconds_remaining": 931.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "MISS Jackson 25' 3PT Fadeaway Bank Shot",
+      "win_probability": 0.8705
+    },
+    {
+      "seconds_elapsed": 1953.0,
+      "seconds_remaining": 927.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Davis REBOUND (Off:1 Def:6)",
+      "win_probability": 0.8705
+    },
+    {
+      "seconds_elapsed": 1963.0,
+      "seconds_remaining": 917.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Vincent Bad Pass Turnover (P2.T8)",
+      "win_probability": 0.8705
+    },
+    {
+      "seconds_elapsed": 1963.0,
+      "seconds_remaining": 917.0,
+      "score_diff": 11.0,
+      "score_home": 80.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope STEAL (2 STL)",
+      "win_probability": 0.8705
+    },
+    {
+      "seconds_elapsed": 1966.0,
+      "seconds_remaining": 914.0,
+      "score_diff": 13.0,
+      "score_home": 82.0,
+      "score_away": 69.0,
+      "description": "Caldwell-Pope 1' Running Dunk (14 PTS)",
+      "win_probability": 0.9019
+    },
+    {
+      "seconds_elapsed": 1978.0,
+      "seconds_remaining": 902.0,
+      "score_diff": 11.0,
+      "score_home": 82.0,
+      "score_away": 71.0,
+      "description": "Vincent 24' Step Back Jump Shot (2 PTS)",
+      "win_probability": 0.8705
+    },
+    {
+      "seconds_elapsed": 1989.0,
+      "seconds_remaining": 891.0,
+      "score_diff": 14.0,
+      "score_home": 85.0,
+      "score_away": 71.0,
+      "description": "Jokic 25' 3PT Jump Shot (22 PTS)",
+      "win_probability": 0.9366
+    },
+    {
+      "seconds_elapsed": 2003.0,
+      "seconds_remaining": 877.0,
+      "score_diff": 14.0,
+      "score_home": 85.0,
+      "score_away": 71.0,
+      "description": "MISS Vincent 25' 3PT Step Back Jump Shot",
+      "win_probability": 0.9366
+    },
+    {
+      "seconds_elapsed": 2003.0,
+      "seconds_remaining": 877.0,
+      "score_diff": 14.0,
+      "score_home": 85.0,
+      "score_away": 71.0,
+      "description": "Braun REBOUND (Off:0 Def:2)",
+      "win_probability": 0.9366
+    },
+    {
+      "seconds_elapsed": 2019.0,
+      "seconds_remaining": 861.0,
+      "score_diff": 16.0,
+      "score_home": 87.0,
+      "score_away": 71.0,
+      "description": "Caldwell-Pope 19' Step Back Jump Shot (16 PTS) (Jokic 6 AST)",
+      "win_probability": 0.9754
+    },
+    {
+      "seconds_elapsed": 2042.0,
+      "seconds_remaining": 838.0,
+      "score_diff": 14.0,
+      "score_home": 87.0,
+      "score_away": 73.0,
+      "description": "Vincent 8' Turnaround Fadeaway (4 PTS)",
+      "win_probability": 0.9503
+    },
+    {
+      "seconds_elapsed": 2057.0,
+      "seconds_remaining": 823.0,
+      "score_diff": 14.0,
+      "score_home": 87.0,
+      "score_away": 73.0,
+      "description": "Caldwell-Pope Lost Ball Turnover (P3.T9)",
+      "win_probability": 0.9503
+    },
+    {
+      "seconds_elapsed": 2057.0,
+      "seconds_remaining": 823.0,
+      "score_diff": 14.0,
+      "score_home": 87.0,
+      "score_away": 73.0,
+      "description": "Vincent STEAL (1 STL)",
+      "win_probability": 0.9503
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "Hachimura 2' Running Dunk (6 PTS) (Russell 6 AST)",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "NUGGETS Timeout: Regular (Full 4 Short 0)",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "SUB: Nnaji FOR Caldwell-Pope",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "SUB: Murray FOR Jokic",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "SUB: James FOR Davis",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2062.0,
+      "seconds_remaining": 818.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "SUB: Wood FOR Hachimura",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2080.0,
+      "seconds_remaining": 800.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "Reddish P.FOUL (P2.T3) (S.Twardoski)",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2086.0,
+      "seconds_remaining": 794.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "Nnaji OFF.Foul (P1) (K.Cutler)",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2086.0,
+      "seconds_remaining": 794.0,
+      "score_diff": 12.0,
+      "score_home": 87.0,
+      "score_away": 75.0,
+      "description": "Nnaji Offensive Foul Turnover (P1.T10)",
+      "win_probability": 0.8984
+    },
+    {
+      "seconds_elapsed": 2097.0,
+      "seconds_remaining": 783.0,
+      "score_diff": 10.0,
+      "score_home": 87.0,
+      "score_away": 77.0,
+      "description": "James 1' Driving Dunk (12 PTS) (Russell 7 AST)",
+      "win_probability": 0.861
+    },
+    {
+      "seconds_elapsed": 2114.8,
+      "seconds_remaining": 765.1999999999998,
+      "score_diff": 10.0,
+      "score_home": 87.0,
+      "score_away": 77.0,
+      "description": "Watson Traveling Turnover (P1.T11)",
+      "win_probability": 0.861
+    },
+    {
+      "seconds_elapsed": 2128.9,
+      "seconds_remaining": 751.0999999999999,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "Russell 28' 3PT Jump Shot (11 PTS) (James 4 AST)",
+      "win_probability": 0.7809
+    },
+    {
+      "seconds_elapsed": 2154.0,
+      "seconds_remaining": 726.0,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "MISS Watson 26' 3PT Jump Shot",
+      "win_probability": 0.7809
+    },
+    {
+      "seconds_elapsed": 2156.8,
+      "seconds_remaining": 723.1999999999998,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "Reddish REBOUND (Off:0 Def:2)",
+      "win_probability": 0.7951
+    },
+    {
+      "seconds_elapsed": 2159.4,
+      "seconds_remaining": 720.5999999999999,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "MISS James 53' 3PT Floating Jump Shot",
+      "win_probability": 0.7951
+    },
+    {
+      "seconds_elapsed": 2159.4,
+      "seconds_remaining": 720.5999999999999,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.7951
+    },
+    {
+      "seconds_elapsed": 2160.0,
+      "seconds_remaining": 720.0,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "End of 3rd Period (9:19 PM EST)",
+      "win_probability": 0.7968
+    },
+    {
+      "seconds_elapsed": 2160.0,
+      "seconds_remaining": 720.0,
+      "score_diff": 7.0,
+      "score_home": 87.0,
+      "score_away": 80.0,
+      "description": "Start of 4th Period (9:22 PM EST)",
+      "win_probability": 0.7968
+    },
+    {
+      "seconds_elapsed": 2172.0,
+      "seconds_remaining": 708.0,
+      "score_diff": 5.0,
+      "score_home": 87.0,
+      "score_away": 82.0,
+      "description": "James 3' Driving Reverse Layup (14 PTS) (Vincent 1 AST)",
+      "win_probability": 0.7184
+    },
+    {
+      "seconds_elapsed": 2172.0,
+      "seconds_remaining": 708.0,
+      "score_diff": 5.0,
+      "score_home": 87.0,
+      "score_away": 82.0,
+      "description": "Gordon Violation:Defensive Goaltending (S.Twardoski)",
+      "win_probability": 0.7184
+    },
+    {
+      "seconds_elapsed": 2194.0,
+      "seconds_remaining": 686.0,
+      "score_diff": 5.0,
+      "score_home": 87.0,
+      "score_away": 82.0,
+      "description": "MISS Jackson 19' Step Back Jump Shot",
+      "win_probability": 0.7186
+    },
+    {
+      "seconds_elapsed": 2197.0,
+      "seconds_remaining": 683.0,
+      "score_diff": 5.0,
+      "score_home": 87.0,
+      "score_away": 82.0,
+      "description": "Wood REBOUND (Off:0 Def:2)",
+      "win_probability": 0.7186
+    },
+    {
+      "seconds_elapsed": 2213.0,
+      "seconds_remaining": 667.0,
+      "score_diff": 3.0,
+      "score_home": 87.0,
+      "score_away": 84.0,
+      "description": "Wood 2' Driving Dunk (6 PTS)",
+      "win_probability": 0.6779
+    },
+    {
+      "seconds_elapsed": 2242.0,
+      "seconds_remaining": 638.0,
+      "score_diff": 6.0,
+      "score_home": 90.0,
+      "score_away": 84.0,
+      "description": "Gordon 25' 3PT Step Back Jump Shot (13 PTS)",
+      "win_probability": 0.7748
+    },
+    {
+      "seconds_elapsed": 2264.0,
+      "seconds_remaining": 616.0,
+      "score_diff": 6.0,
+      "score_home": 90.0,
+      "score_away": 84.0,
+      "description": "MISS Russell 27' 3PT Pullup Jump Shot",
+      "win_probability": 0.7748
+    },
+    {
+      "seconds_elapsed": 2269.0,
+      "seconds_remaining": 611.0,
+      "score_diff": 6.0,
+      "score_home": 90.0,
+      "score_away": 84.0,
+      "description": "Reddish REBOUND (Off:1 Def:2)",
+      "win_probability": 0.7759
+    },
+    {
+      "seconds_elapsed": 2271.0,
+      "seconds_remaining": 609.0,
+      "score_diff": 6.0,
+      "score_home": 90.0,
+      "score_away": 84.0,
+      "description": "MISS Reddish 3' Driving Layup",
+      "win_probability": 0.7759
+    },
+    {
+      "seconds_elapsed": 2271.0,
+      "seconds_remaining": 609.0,
+      "score_diff": 6.0,
+      "score_home": 90.0,
+      "score_away": 84.0,
+      "description": "Reddish REBOUND (Off:2 Def:2)",
+      "win_probability": 0.7759
+    },
+    {
+      "seconds_elapsed": 2274.0,
+      "seconds_remaining": 606.0,
+      "score_diff": 4.0,
+      "score_home": 90.0,
+      "score_away": 86.0,
+      "description": "Reddish Tip Layup Shot (5 PTS)",
+      "win_probability": 0.7183
+    },
+    {
+      "seconds_elapsed": 2287.0,
+      "seconds_remaining": 593.0,
+      "score_diff": 6.0,
+      "score_home": 92.0,
+      "score_away": 86.0,
+      "description": "Murray 18' Pullup Jump Shot (18 PTS)",
+      "win_probability": 0.7711
+    },
+    {
+      "seconds_elapsed": 2298.0,
+      "seconds_remaining": 582.0,
+      "score_diff": 3.0,
+      "score_home": 92.0,
+      "score_away": 89.0,
+      "description": "James 29' 3PT Jump Shot (17 PTS) (Vincent 2 AST)",
+      "win_probability": 0.6782
+    },
+    {
+      "seconds_elapsed": 2316.0,
+      "seconds_remaining": 564.0,
+      "score_diff": 3.0,
+      "score_home": 92.0,
+      "score_away": 89.0,
+      "description": "MISS Braun 25' 3PT Jump Shot",
+      "win_probability": 0.6782
+    },
+    {
+      "seconds_elapsed": 2318.0,
+      "seconds_remaining": 562.0,
+      "score_diff": 3.0,
+      "score_home": 92.0,
+      "score_away": 89.0,
+      "description": "Gordon REBOUND (Off:2 Def:4)",
+      "win_probability": 0.6782
+    },
+    {
+      "seconds_elapsed": 2326.0,
+      "seconds_remaining": 554.0,
+      "score_diff": 3.0,
+      "score_home": 92.0,
+      "score_away": 89.0,
+      "description": "MISS Braun 2' Layup",
+      "win_probability": 0.6782
+    },
+    {
+      "seconds_elapsed": 2332.0,
+      "seconds_remaining": 548.0,
+      "score_diff": 3.0,
+      "score_home": 92.0,
+      "score_away": 89.0,
+      "description": "Braun REBOUND (Off:1 Def:2)",
+      "win_probability": 0.6782
+    },
+    {
+      "seconds_elapsed": 2332.0,
+      "seconds_remaining": 548.0,
+      "score_diff": 5.0,
+      "score_home": 94.0,
+      "score_away": 89.0,
+      "description": "Braun Putback Layup (3 PTS)",
+      "win_probability": 0.7331
+    },
+    {
+      "seconds_elapsed": 2351.0,
+      "seconds_remaining": 529.0,
+      "score_diff": 5.0,
+      "score_home": 94.0,
+      "score_away": 89.0,
+      "description": "Nnaji S.FOUL (P2.T1) (S.Twardoski)",
+      "win_probability": 0.7331
+    },
+    {
+      "seconds_elapsed": 2351.0,
+      "seconds_remaining": 529.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "Wood Free Throw 1 of 2 (7 PTS)",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2351.0,
+      "seconds_remaining": 529.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "SUB: Jokic FOR Nnaji",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2351.0,
+      "seconds_remaining": 529.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "MISS Wood Free Throw 2 of 2",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2352.0,
+      "seconds_remaining": 528.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "Wood REBOUND (Off:1 Def:2)",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2352.0,
+      "seconds_remaining": 528.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "Murray P.FOUL (P2.T2) (K.Cutler)",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2352.0,
+      "seconds_remaining": 528.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "SUB: Davis FOR James",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2362.0,
+      "seconds_remaining": 518.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "MISS Davis 27' 3PT Jump Shot",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2366.0,
+      "seconds_remaining": 514.0,
+      "score_diff": 4.0,
+      "score_home": 94.0,
+      "score_away": 90.0,
+      "description": "Gordon REBOUND (Off:2 Def:5)",
+      "win_probability": 0.7139
+    },
+    {
+      "seconds_elapsed": 2383.0,
+      "seconds_remaining": 497.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "Jokic 25' 3PT Jump Shot (25 PTS) (Braun 1 AST)",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2385.0,
+      "seconds_remaining": 495.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "Lakers Timeout: Regular (Reg.4 Short 0)",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2385.0,
+      "seconds_remaining": 495.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "SUB: Caldwell-Pope FOR Murray",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2385.0,
+      "seconds_remaining": 495.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "SUB: Porter Jr. FOR Gordon",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2385.0,
+      "seconds_remaining": 495.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "SUB: Prince FOR Russell",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2385.0,
+      "seconds_remaining": 495.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "SUB: Reaves FOR Reddish",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2399.0,
+      "seconds_remaining": 481.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "MISS Vincent 4' Driving Reverse Layup",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2401.0,
+      "seconds_remaining": 479.0,
+      "score_diff": 7.0,
+      "score_home": 97.0,
+      "score_away": 90.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:8)",
+      "win_probability": 0.8263
+    },
+    {
+      "seconds_elapsed": 2415.0,
+      "seconds_remaining": 465.0,
+      "score_diff": 9.0,
+      "score_home": 99.0,
+      "score_away": 90.0,
+      "description": "Caldwell-Pope 18' Pullup Jump Shot (18 PTS) (Jokic 7 AST)",
+      "win_probability": 0.9043
+    },
+    {
+      "seconds_elapsed": 2428.0,
+      "seconds_remaining": 452.0,
+      "score_diff": 9.0,
+      "score_home": 99.0,
+      "score_away": 90.0,
+      "description": "Prince Traveling Turnover (P1.T9)",
+      "win_probability": 0.9043
+    },
+    {
+      "seconds_elapsed": 2441.0,
+      "seconds_remaining": 439.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "Jokic 16' Jump Shot (27 PTS) (Braun 2 AST)",
+      "win_probability": 0.9569
+    },
+    {
+      "seconds_elapsed": 2454.0,
+      "seconds_remaining": 426.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "MISS Vincent 26' 3PT Jump Shot",
+      "win_probability": 0.9569
+    },
+    {
+      "seconds_elapsed": 2457.0,
+      "seconds_remaining": 423.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:9)",
+      "win_probability": 0.9569
+    },
+    {
+      "seconds_elapsed": 2472.0,
+      "seconds_remaining": 408.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "MISS Braun 2' Driving Layup",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2474.0,
+      "seconds_remaining": 406.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "Wood REBOUND (Off:1 Def:3)",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2474.0,
+      "seconds_remaining": 406.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "SUB: Russell FOR Vincent",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2487.0,
+      "seconds_remaining": 393.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "Braun S.FOUL (P1.T3) (S.Twardoski)",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2487.0,
+      "seconds_remaining": 393.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "MISS Reaves Free Throw 1 of 2",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2487.0,
+      "seconds_remaining": 393.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2487.0,
+      "seconds_remaining": 393.0,
+      "score_diff": 11.0,
+      "score_home": 101.0,
+      "score_away": 90.0,
+      "description": "SUB: Murray FOR Jackson",
+      "win_probability": 0.9572
+    },
+    {
+      "seconds_elapsed": 2487.0,
+      "seconds_remaining": 393.0,
+      "score_diff": 10.0,
+      "score_home": 101.0,
+      "score_away": 91.0,
+      "description": "Reaves Free Throw 2 of 2 (9 PTS)",
+      "win_probability": 0.9401
+    },
+    {
+      "seconds_elapsed": 2504.0,
+      "seconds_remaining": 376.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "Braun 3' Cutting Layup Shot (5 PTS) (Jokic 8 AST)",
+      "win_probability": 0.9825
+    },
+    {
+      "seconds_elapsed": 2516.0,
+      "seconds_remaining": 364.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "Murray P.FOUL (P3.T4) (K.Cutler)",
+      "win_probability": 0.9825
+    },
+    {
+      "seconds_elapsed": 2516.0,
+      "seconds_remaining": 364.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "SUB: Gordon FOR Braun",
+      "win_probability": 0.9825
+    },
+    {
+      "seconds_elapsed": 2516.0,
+      "seconds_remaining": 364.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "SUB: James FOR Wood",
+      "win_probability": 0.9825
+    },
+    {
+      "seconds_elapsed": 2522.0,
+      "seconds_remaining": 358.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "MISS Reaves 29' 3PT Jump Shot",
+      "win_probability": 0.9804
+    },
+    {
+      "seconds_elapsed": 2525.0,
+      "seconds_remaining": 355.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "Caldwell-Pope REBOUND (Off:1 Def:1)",
+      "win_probability": 0.9804
+    },
+    {
+      "seconds_elapsed": 2528.0,
+      "seconds_remaining": 352.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "MISS Murray 3' Running Layup",
+      "win_probability": 0.9804
+    },
+    {
+      "seconds_elapsed": 2528.0,
+      "seconds_remaining": 352.0,
+      "score_diff": 12.0,
+      "score_home": 103.0,
+      "score_away": 91.0,
+      "description": "James REBOUND (Off:1 Def:7)",
+      "win_probability": 0.9804
+    },
+    {
+      "seconds_elapsed": 2535.0,
+      "seconds_remaining": 345.0,
+      "score_diff": 9.0,
+      "score_home": 103.0,
+      "score_away": 94.0,
+      "description": "Prince 25' 3PT Jump Shot (18 PTS) (James 5 AST)",
+      "win_probability": 0.9287
+    },
+    {
+      "seconds_elapsed": 2552.0,
+      "seconds_remaining": 328.0,
+      "score_diff": 9.0,
+      "score_home": 103.0,
+      "score_away": 94.0,
+      "description": "Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T12)",
+      "win_probability": 0.9466
+    },
+    {
+      "seconds_elapsed": 2563.0,
+      "seconds_remaining": 317.0,
+      "score_diff": 7.0,
+      "score_home": 103.0,
+      "score_away": 96.0,
+      "description": "James 3' Cutting Layup Shot (19 PTS) (Reaves 4 AST)",
+      "win_probability": 0.9028
+    },
+    {
+      "seconds_elapsed": 2565.0,
+      "seconds_remaining": 315.0,
+      "score_diff": 7.0,
+      "score_home": 103.0,
+      "score_away": 96.0,
+      "description": "NUGGETS Timeout: Regular (Full 5 Short 0)",
+      "win_probability": 0.9028
+    },
+    {
+      "seconds_elapsed": 2578.0,
+      "seconds_remaining": 302.0,
+      "score_diff": 10.0,
+      "score_home": 106.0,
+      "score_away": 96.0,
+      "description": "Murray 26' 3PT Jump Shot (21 PTS) (Jokic 9 AST)",
+      "win_probability": 0.9665
+    },
+    {
+      "seconds_elapsed": 2595.0,
+      "seconds_remaining": 285.0,
+      "score_diff": 10.0,
+      "score_home": 106.0,
+      "score_away": 96.0,
+      "description": "MISS James 26' 3PT Jump Shot",
+      "win_probability": 0.9713
+    },
+    {
+      "seconds_elapsed": 2598.0,
+      "seconds_remaining": 282.0,
+      "score_diff": 10.0,
+      "score_home": 106.0,
+      "score_away": 96.0,
+      "description": "NUGGETS Rebound",
+      "win_probability": 0.9713
+    },
+    {
+      "seconds_elapsed": 2609.0,
+      "seconds_remaining": 271.0,
+      "score_diff": 12.0,
+      "score_home": 108.0,
+      "score_away": 96.0,
+      "description": "Caldwell-Pope 20' Pullup Jump Shot (20 PTS) (Jokic 10 AST)",
+      "win_probability": 0.9913
+    },
+    {
+      "seconds_elapsed": 2626.0,
+      "seconds_remaining": 254.0,
+      "score_diff": 12.0,
+      "score_home": 108.0,
+      "score_away": 96.0,
+      "description": "Russell Lost Ball Turnover (P2.T10)",
+      "win_probability": 0.9946
+    },
+    {
+      "seconds_elapsed": 2626.0,
+      "seconds_remaining": 254.0,
+      "score_diff": 12.0,
+      "score_home": 108.0,
+      "score_away": 96.0,
+      "description": "Jokic STEAL (1 STL)",
+      "win_probability": 0.9946
+    },
+    {
+      "seconds_elapsed": 2646.0,
+      "seconds_remaining": 234.0,
+      "score_diff": 14.0,
+      "score_home": 110.0,
+      "score_away": 96.0,
+      "description": "Gordon Dunk (15 PTS) (Murray 6 AST)",
+      "win_probability": 0.998
+    },
+    {
+      "seconds_elapsed": 2660.0,
+      "seconds_remaining": 220.0,
+      "score_diff": 11.0,
+      "score_home": 110.0,
+      "score_away": 99.0,
+      "description": "Reaves 28' 3PT Jump Shot (12 PTS) (Davis 4 AST)",
+      "win_probability": 0.9918
+    },
+    {
+      "seconds_elapsed": 2681.0,
+      "seconds_remaining": 199.0,
+      "score_diff": 14.0,
+      "score_home": 113.0,
+      "score_away": 99.0,
+      "description": "Porter Jr. 24' 3PT Jump Shot (10 PTS) (Jokic 11 AST)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2683.0,
+      "seconds_remaining": 197.0,
+      "score_diff": 14.0,
+      "score_home": 113.0,
+      "score_away": 99.0,
+      "description": "Lakers Timeout: Regular (Reg.5 Short 0)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2701.0,
+      "seconds_remaining": 179.0,
+      "score_diff": 12.0,
+      "score_home": 113.0,
+      "score_away": 101.0,
+      "description": "James 3' Driving Finger Roll Layup (21 PTS)",
+      "win_probability": 0.9985
+    },
+    {
+      "seconds_elapsed": 2701.0,
+      "seconds_remaining": 179.0,
+      "score_diff": 12.0,
+      "score_home": 113.0,
+      "score_away": 101.0,
+      "description": "Caldwell-Pope S.FOUL (P4.PN) (S.Twardoski)",
+      "win_probability": 0.9985
+    },
+    {
+      "seconds_elapsed": 2701.0,
+      "seconds_remaining": 179.0,
+      "score_diff": 12.0,
+      "score_home": 113.0,
+      "score_away": 101.0,
+      "description": "MISS James Free Throw 1 of 1",
+      "win_probability": 0.9985
+    },
+    {
+      "seconds_elapsed": 2703.0,
+      "seconds_remaining": 177.0,
+      "score_diff": 12.0,
+      "score_home": 113.0,
+      "score_away": 101.0,
+      "description": "Porter Jr. REBOUND (Off:1 Def:10)",
+      "win_probability": 0.9985
+    },
+    {
+      "seconds_elapsed": 2715.0,
+      "seconds_remaining": 165.0,
+      "score_diff": 12.0,
+      "score_home": 113.0,
+      "score_away": 101.0,
+      "description": "Russell P.FOUL (P3.T1) (K.Cutler)",
+      "win_probability": 0.9985
+    },
+    {
+      "seconds_elapsed": 2724.0,
+      "seconds_remaining": 156.0,
+      "score_diff": 14.0,
+      "score_home": 115.0,
+      "score_away": 101.0,
+      "description": "Jokic 2' Layup (29 PTS)",
+      "win_probability": 0.9992
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 14.0,
+      "score_home": 115.0,
+      "score_away": 101.0,
+      "description": "Caldwell-Pope S.FOUL (P5.PN) (K.Cutler)",
+      "win_probability": 0.9992
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 14.0,
+      "score_home": 115.0,
+      "score_away": 101.0,
+      "description": "Caldwell-Pope T.FOUL (P5.PN) (K.Cutler)",
+      "win_probability": 0.9992
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 14.0,
+      "score_home": 115.0,
+      "score_away": 101.0,
+      "description": "MISS Reaves Free Throw Technical",
+      "win_probability": 0.9992
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 14.0,
+      "score_home": 115.0,
+      "score_away": 101.0,
+      "description": "Lakers Rebound",
+      "win_probability": 0.9992
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 13.0,
+      "score_home": 115.0,
+      "score_away": 102.0,
+      "description": "Reaves Free Throw 1 of 2 (13 PTS)",
+      "win_probability": 0.9989
+    },
+    {
+      "seconds_elapsed": 2732.0,
+      "seconds_remaining": 148.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Reaves Free Throw 2 of 2 (14 PTS)",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2744.0,
+      "seconds_remaining": 136.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Reaves P.FOUL (P1.T2) (J.Williams)",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2756.0,
+      "seconds_remaining": 124.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "MISS Gordon 9' Turnaround Fadeaway Bank Jump Shot",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2757.0,
+      "seconds_remaining": 123.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Russell REBOUND (Off:0 Def:4)",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2770.0,
+      "seconds_remaining": 110.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Reaves Bad Pass Turnover (P2.T11)",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2770.0,
+      "seconds_remaining": 110.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Porter Jr. STEAL (2 STL)",
+      "win_probability": 0.9986
+    },
+    {
+      "seconds_elapsed": 2784.0,
+      "seconds_remaining": 96.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "MISS Porter Jr. 25' 3PT Step Back Jump Shot",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2787.0,
+      "seconds_remaining": 93.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Davis REBOUND (Off:1 Def:7)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2791.0,
+      "seconds_remaining": 89.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Russell Bad Pass Turnover (P3.T12)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2791.0,
+      "seconds_remaining": 89.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Caldwell-Pope STEAL (3 STL)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Reaves Personal Take Foul (P2.T3) (K.Cutler)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Lakers Timeout: Regular (Reg.6 Short 0)",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "SUB: Hayes FOR Russell",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "SUB: Christie FOR Davis",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "SUB: Reddish FOR Prince",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "SUB: Lewis FOR Reaves",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2805.0,
+      "seconds_remaining": 75.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "SUB: Vincent FOR James",
+      "win_probability": 0.9988
+    },
+    {
+      "seconds_elapsed": 2818.0,
+      "seconds_remaining": 62.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "MISS Jokic 25' 3PT Jump Shot",
+      "win_probability": 0.999
+    },
+    {
+      "seconds_elapsed": 2819.0,
+      "seconds_remaining": 61.0,
+      "score_diff": 12.0,
+      "score_home": 115.0,
+      "score_away": 103.0,
+      "description": "Porter Jr. REBOUND (Off:2 Def:10)",
+      "win_probability": 0.999
+    },
+    {
+      "seconds_elapsed": 2819.0,
+      "seconds_remaining": 61.0,
+      "score_diff": 14.0,
+      "score_home": 117.0,
+      "score_away": 103.0,
+      "description": "Porter Jr. Tip Layup Shot (12 PTS)",
+      "win_probability": 0.9994
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "Vincent 3' Driving Finger Roll Layup (6 PTS)",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "NUGGETS Timeout: Regular (Full 6 Short 0)",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "SUB: Nnaji FOR Porter Jr.",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "SUB: Gillespie FOR Caldwell-Pope",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "SUB: Watson FOR Jokic",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "SUB: Key FOR Murray",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2836.3,
+      "seconds_remaining": 43.69999999999982,
+      "score_diff": 12.0,
+      "score_home": 117.0,
+      "score_away": 105.0,
+      "description": "SUB: Pickett FOR Gordon",
+      "win_probability": 0.9995
+    },
+    {
+      "seconds_elapsed": 2848.1,
+      "seconds_remaining": 31.90000000000009,
+      "score_diff": 14.0,
+      "score_home": 119.0,
+      "score_away": 105.0,
+      "description": "Pickett 17' Pullup Jump Shot (2 PTS)",
+      "win_probability": 0.9997
+    },
+    {
+      "seconds_elapsed": 2856.0,
+      "seconds_remaining": 24.0,
+      "score_diff": 14.0,
+      "score_home": 119.0,
+      "score_away": 105.0,
+      "description": "Watson S.FOUL (P1.PN) (J.Williams)",
+      "win_probability": 0.9998
+    },
+    {
+      "seconds_elapsed": 2856.0,
+      "seconds_remaining": 24.0,
+      "score_diff": 13.0,
+      "score_home": 119.0,
+      "score_away": 106.0,
+      "description": "Reddish Free Throw 1 of 2 (6 PTS)",
+      "win_probability": 0.9997
+    },
+    {
+      "seconds_elapsed": 2856.0,
+      "seconds_remaining": 24.0,
+      "score_diff": 12.0,
+      "score_home": 119.0,
+      "score_away": 107.0,
+      "description": "Reddish Free Throw 2 of 2 (7 PTS)",
+      "win_probability": 0.9996
+    },
+    {
+      "seconds_elapsed": 2880.0,
+      "seconds_remaining": 0.0,
+      "score_diff": 12.0,
+      "score_home": 119.0,
+      "score_away": 107.0,
+      "description": "End of 4th Period (9:54 PM EST)",
+      "win_probability": 0.9999
+    }
+  ]
+}

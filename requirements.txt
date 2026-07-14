@@ -1,0 +1,7 @@
+pandas
+nba_api
+scikit-learn
+xgboost
+jupyter
+matplotlib
+pyarrow
