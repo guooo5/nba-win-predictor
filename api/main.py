@@ -40,7 +40,7 @@ app = FastAPI(title="NBA Win Probability API")
 #cors allows next.js to call this api from browser 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],#!!!!!!!tighten this to actual frontend URL before deploying
+    allow_origins=["https://nba-win-predictor.vercel.app/"], #vercel url
     allow_methods=["*"],
     allow_headers=["*"],
 )
