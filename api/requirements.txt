@@ -3,3 +3,5 @@ uvicorn
 xgboost
 pandas
 numpy
+nba_api
+requests
