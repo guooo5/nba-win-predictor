@@ -94,8 +94,7 @@ export default function WinProbabilityChart() {
 
   const current = data?.events[currentIndex];
 
-  const history = data
-    ? data.events
+  const history = data ? data.events
         .slice(Math.max(0, currentIndex - 5), currentIndex)
         .reverse()
     : [];
@@ -113,7 +112,8 @@ export default function WinProbabilityChart() {
         <button
           onClick={() => loadGame(gameIdInput)}
           disabled={loading}
-          className="px-4 py-2 bg-gray-800 text-white rounded disabled:opacity-50"
+          className="px-4 py-2 bg-gray-900 text-white rounded disabled:opacity-50"
+          style={{ backgroundColor: "#b5c7eb"}}
         >
           {loading ? "Loading..." : "Load game"}
         </button>
@@ -165,7 +165,7 @@ export default function WinProbabilityChart() {
                   <Line
                     type="monotone"
                     dataKey="winProbabilityPct"
-                    stroke="#D85A30"
+                    stroke="#b5c7eb"
                     strokeWidth={2}
                     dot={false}
                     isAnimationActive={false}
@@ -183,7 +183,8 @@ export default function WinProbabilityChart() {
             <div className="flex items-center gap-4 mt-4">
               <button
                 onClick={() => setIsPlaying(!isPlaying)}
-                className="px-4 py-2 bg-blue-600 text-white rounded"
+                className="px-4 py-2 bg-gray-900 text-white rounded"
+                style={{ backgroundColor: "#b5c7eb" }}
               >
                 {isPlaying ? "Pause" : "Play"}
               </button>
@@ -197,12 +198,13 @@ export default function WinProbabilityChart() {
                   setCurrentIndex(Number(e.target.value));
                 }}
                 className="flex-1"
+                style={{accentColor: "#b5c7eb"}}
               />
             </div>
           </div>
 
           <div className="bg-gray-50 rounded-xl p-5">
-            <div className="border-l-[3px] border-[#D85A30] pl-3 mb-4">
+            <div className="border-l-[3px] border-[#b5c7eb] pl-3 mb-4">
               <div className="font-mono text-xs text-gray-400">
                 Q{current.period} &middot; {current.clock}
               </div>

@@ -5,7 +5,8 @@ data/raw/
 data/processed/
 data/replays/
 models/*.pkl
-models/*.json
+models/*
+!models/xgboost_model.json
 .ipynb_checkpoints/
 
 # dependencies
